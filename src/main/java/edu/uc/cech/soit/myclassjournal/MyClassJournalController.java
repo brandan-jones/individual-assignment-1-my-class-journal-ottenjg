@@ -7,7 +7,7 @@ public class MyClassJournalController {
      * Handle the / endpoint
      * @return
      */
-    //test
+
     @RequestMapping("/")
     public String index() {
         return "start";
