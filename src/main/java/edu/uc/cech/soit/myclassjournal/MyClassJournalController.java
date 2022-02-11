@@ -10,7 +10,7 @@ public class MyClassJournalController {
 
     @RequestMapping("/")
     public String index() {
-        return "start";
+        return "index";
     }
 
 
